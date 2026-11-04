@@ -1,4 +1,4 @@
-# kbot# kbot
+# kbot
 
 Telegram-бот на Go — практичне завдання курсу «DevOps та Kubernetes. Практичний інтенсив+» (Prometheus).
 
